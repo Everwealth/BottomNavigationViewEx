@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>BottomNavigationViewEx</id>
+    <version>2.0.2</version>
+    <title>BottomNavigationViewEx</title>
+    <authors>Everwealth</authors>
+    <owners>Everwealth</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Com.Ittianyu.BottomNavigationViewEx bindings for Xamarin.Android</description>
+    <summary>Com.Ittianyu.BottomNavigationViewEx for Xamarin.Android</summary>
+    <copyright></copyright>
+    <language></language>
+    <tags>bottomnavigationviewex xamarin android xamarin.android</tags>
+    <dependencies>
+        <dependency id="Xamarin.Android.Support.Design" version="28.0.0"/>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\release\BottomNavigationViewEx.dll" target="lib\MonoAndroid" />
+  </files>
+</package>
